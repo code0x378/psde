@@ -1,11 +1,5 @@
 # PSDE - Powershell Developer Environment
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-**Note the default repo for this code is https://git.sr.ht/~code0x378/psde**
-
----
-
 **Barely alpha status. Works on my computer. Probably not yours.**
 
 Powershell Developer Environment (PSDE) is a simple module that sets paths to local SDKs and sets related environment variables 
